@@ -1,0 +1,7 @@
+Using the MyStore database:
+1. Create a JSON Object Array consisting of objects with the keys:
+  * Name
+  * Price
+  * Quantity
+  * Category
+2. Do a mass insert of this JSON Object Array into the 'products' table in the MyStore database
