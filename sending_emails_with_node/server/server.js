@@ -26,5 +26,5 @@ var PORT = process.env.PORT || 3000;
 
 //runs your server and has it listen on a port
 app.listen(PORT, function(){
-	console.log("Listening on PORT " + PORT);
+	console.log("Open the html for this app by putting this url into the browser: http://localhost:" + PORT);
 });
