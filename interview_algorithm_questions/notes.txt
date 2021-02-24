@@ -1,5 +1,3 @@
 There is a good possibility that interviewers will ask you questions on
 various algorithms. Here is a source for those algorithms:
 https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
-
-Binary Search: https://www.geeksforgeeks.org/binary-search-in-javascript/

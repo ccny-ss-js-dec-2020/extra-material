@@ -1,3 +1,6 @@
+/* Creating a function to search for an index in an array */
+/* https://www.geeksforgeeks.org/binary-search-in-javascript/ */
+
 let recursiveFunction = function (arr, x, start, end) {
 
     // Base Condition

@@ -1,0 +1,1 @@
+/* Write code to find the smallest number in an array */
