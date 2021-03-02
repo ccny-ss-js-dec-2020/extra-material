@@ -17,4 +17,4 @@ function getFileFromS3AndStoreLocally(fileName){
 
 //kurt.jpeg is a picture that i have stored in my aws storage.
 //im pulling it from storage and storing it locally
-getFileFromS3AndStoreLocally("nirvana/kurt.jpeg")
+getFileFromS3AndStoreLocally("nirvana/kurt.jpeg");
