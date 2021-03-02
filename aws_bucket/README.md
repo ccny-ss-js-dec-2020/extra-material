@@ -5,6 +5,7 @@
 1. Get an IAM User created on your AWS Console: https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users.html
 2. Generate API Keys for that IAM User: https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html
 3. Create the S3 Bucket (Where your files will be stored): https://docs.aws.amazon.com/AmazonS3/latest/userguide/create-bucket-overview.html
+  * If you look in the lesson and exercise, i have named my s3 bucket 'web-development-teaching'
 4. Set up a policy that only that IAM User can interact with the S3 Bucket: https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-bucket-policies.html
   * This is done in the "Permissions" tab when viewing your S3 Bucket
   * I have disabled all the Blocks (i.e. Block all public access is equal to Off)
