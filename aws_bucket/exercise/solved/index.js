@@ -16,8 +16,8 @@ function getFileFromS3AndStoreLocally(fileName){
     }
     if (!fs.existsSync("./images/" + fileName.split("/")[0])){
       fs.mkdirSync("./images/" + fileName.split("/")[0]);
-      fs.writeFileSync(`./images/${fileName}`, data.Body);
     }
+    fs.writeFileSync(`./images/${fileName}`, data.Body);
   });
 }
 
